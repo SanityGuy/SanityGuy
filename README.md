@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.souyande.xyz/">Portfolio</a>
   ·
-  <a href="https://github.com/SanityGuy">GitHub</a>
+  <a href="https://github.com/SanityGuy?tab=repositories">Explore My Repositories</a>
 </p>
 
 ---
