@@ -34,7 +34,9 @@ const souyan = {
         "Java",
         "Python",
         "React",
-        "Go"
+        "Go",
+        "Laravel",
+        "PHP"
     ],
 
     building: [
