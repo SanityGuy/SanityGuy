@@ -1,4 +1,3 @@
-<!-- Header Banner -->
 <p align="center">
   <img src="src/Banner.png" alt="Souyan | Software Developer and RuLang" width="850" />
 </p>
@@ -68,8 +67,9 @@ console.log("Welcome to my GitHub.");
 ### `> github analytics`
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SanityGuy&rank_icon=github&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub statistics" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SanityGuy&layout=donut&langs_count=5&theme=github_dark" alt="Most used programming languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SanityGuy&rank_icon=github&custom_title=GitHub%20Overview&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=SanityGuy&layout=donut&hide_border=true&langs_count=5&theme=github_dark" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=SanityGuy&theme=github-dark-blue&hide_border=true&border_radius=0&timezone=GMT%2B7" alt="GitHub Streak" />
 </p>
 
 ### `> support my work`
